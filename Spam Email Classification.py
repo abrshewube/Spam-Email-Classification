@@ -1,7 +1,6 @@
 
 """
-@author:Abel Janko
-
+@author:Abrham Wube
 """
 
 
